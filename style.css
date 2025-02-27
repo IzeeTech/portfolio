@@ -87,7 +87,7 @@ h3{
         flex-wrap:wrap;
         border-radius: 20px;
         }
-        @media (max-width:900px){
+        @media (max-width:726px){
         .services{
             display: block;
             text-align: center;
